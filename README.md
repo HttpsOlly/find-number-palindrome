@@ -23,6 +23,6 @@
 #### 99: <br>7074449215608204801780891870975118165118444806 + <br>6084448115618115790781980871084028065129444707 = <br>13158897331226320592562872742059146230247889513
 #### 100: <br>13158897331226320592562872742059146230247889513 + <br>31598874203264195024727826529502362213379885131 = <br>44757771534490515617290699271561508443627774644
 
-#### On the 100th iteration, it was spewing musbers like "44757771534490515617290699271561508443627774644". Once you get there, how likely is it to find a palindrome? I would post the final few iterations before 10,000 but Chrome crashed whan I began editing this document. There were 4,159 characters in the 10,000th number, just for size!
+#### On the 100th iteration, it was spewing numbers like "44757771534490515617290699271561508443627774644". Once you get there, how likely is it to find a palindrome? I would post the final few iterations before 10,000 but Chrome crashed whan I began editing this document. There were 4,159 characters in the 10,000th number, just for size!
 
 #### There we have it - 196 is a problematic, un-palindromic number!
